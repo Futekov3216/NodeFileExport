@@ -1,0 +1,9 @@
+{
+	"name": "RenamePictures",
+	"description": "",
+	"version": "0.0.1",
+	"dependencies": {
+		"glob": "*"
+	},
+	"main": "transform.js"
+}
